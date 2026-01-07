@@ -1,0 +1,1 @@
+Space Shooter adalah game arcade 2D bertema luar angkasa di mana pemain mengendalikan pesawat tempur untuk melawan gelombang musuh. Tujuan utama permainan ini adalah bertahan selama mungkin sambil mengumpulkan skor tertinggi melalui sistem tembak dan manuver yang cepat.
